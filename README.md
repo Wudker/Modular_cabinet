@@ -4,4 +4,4 @@ This project presents a modular cabinet and shelf system designed in Autodesk In
 
 The repository includes several module variants, such as single and double-width boxes, shelf elements, and edge components. Each part was modeled as a separate `.ipt` file, allowing the system to be easily expanded, modified, or adapted to different dimensions and use cases.
 
-![Prototype](Hardware/Photos/main.jpg)
+![Prototype](Renders/main.jpg)
